@@ -40,7 +40,7 @@ if (!fs.existsSync(DATA_FILE)) {
         text: "Friday 12th December 2025 - You took my number from Blessed 😅. At that exact moment, I didn't know, but that was the start of something beautiful.",
         image:
           'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1200',
-        duration: 5,
+        duration: 10,
       },
       {
         id: '3',
@@ -48,7 +48,7 @@ if (!fs.existsSync(DATA_FILE)) {
         text: "Then came 13th December 2025 - You opened up to me. I didn't see weakness; I saw strength. I saw a woman who, despite life trying its best to keep her down, kept fighting. I fell for your strength, your resilience, your beauty, your smile, your laugh, your heart. 💖",
         image:
           'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=1200',
-        duration: 5,
+        duration: 10,
       },
       {
         id: '4',
@@ -56,7 +56,7 @@ if (!fs.existsSync(DATA_FILE)) {
         text: "I know you don't like me cursing 😅, but permit me this once. F*** everyone who says our love is rushed. I saw everything I wanted in a woman, I went for it, and as long as I'm sane, I'll love you till my last breath. 💕",
         image:
           'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=1200',
-        duration: 5,
+        duration: 10,
       },
       {
         id: '5',
@@ -64,7 +64,7 @@ if (!fs.existsSync(DATA_FILE)) {
         text: "Happy Valentine's Day, Endurance 💓. This is the start of something beautiful.\n\nLots of love... Cabzeel 💓",
         image:
           'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=1200',
-        duration: 5,
+        duration: 8,
       },
     ],
     musicUrl: '',
